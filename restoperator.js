@@ -1,4 +1,4 @@
-//rest operator
+//rest operator used in function
 
 function sum(a,b,c, ...rest){
 
